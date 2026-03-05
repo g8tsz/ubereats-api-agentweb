@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Scraped data
+*.json
+!package.json
+
+# IDE
+.vscode/
+.idea/
+
+# Session state (auth cookies)
+.session/
